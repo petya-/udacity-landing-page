@@ -17,4 +17,4 @@ The project is hosted on Github Pages - [Project URL](https://petya-.github.io/u
 
 ## Styles
 
-This project is using the defauly ESlint and Prettier configuration as style guides.
+This project is using the default VSCode ESlint and Prettier extensions configuration as style guides.
