@@ -13,7 +13,7 @@ It implements DOM manipulation to toggle active classes on HTML elements. The fu
 
 ## Instructions
 
-The project is hosted on Github Pages - [Project URL](https://petya-.github.io/udacity-blog-website/blog/blogPost.html) or to set it up locally, simple clone the repository and open `index.html` in the browser.
+The project is hosted on Github Pages - [Project URL](https://petya-.github.io/udacity-landing-page/) or to set it up locally, simple clone the repository and open `index.html` in the browser.
 
 ## Styles
 
